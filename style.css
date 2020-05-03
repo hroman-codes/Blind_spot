@@ -18,9 +18,9 @@ h1{
 
 #logo{
    
-        background-image: url('logoinfront.jpg');
-        height: 950px;
-        background-size:     cover;                      /* <------ */
+    background-image: url('Images/logoinfront.jpg');
+    height: 950px;
+    background-size:     cover;                      
     background-repeat:   no-repeat;
     background-position: center center;
     opacity: 0.5;
@@ -29,7 +29,7 @@ h1{
 }
 
 #process{
-  background-image: url('IMG-2394.JPG');
+  background-image: url('Images/IMG-2394.JPG');
         height: 950px;
         background-size:     cover;                     
     background-repeat:   no-repeat;
@@ -116,43 +116,75 @@ h1{
 }
 
 #problem{
+  margin-top: 45px;
+  
   text-align: center;
+  font-size: 25px;
 }
 
 #solution{
-  margin-top: 35px;
+  margin-top: 55px;
   text-align: center;
+  font-size: 40px;
+
 }
 
 #problemPic {
-  opacity: 0.5;
+  float: right;
+  /* opacity: 0.8; */
   background-repeat: no-repeat;
-  width: 100%;
-  height: 500px;
-  margin-top: 0px;
+  width: 45%;
+  height: 45%;
+  margin-top: 130px;
+  margin-left: 630px;
+  position: absolute;
+  top: 4.7em;
   padding:10px;
 }
 
 #solutionPic{
-  opacity: 0.5;
+  /* opacity: 0.10; */
   background-repeat: no-repeat;
-  width: 100%;
-  height: 500px;
-  margin-top: 0px;
+  width: 45%;
+  height: 45%;
+  margin-top: 690px;
+  margin-left: 130px;
   padding:10px;
+  top: 4.7em;
+
+  position: absolute;
+  /* top: 4.7em; */
 }
 
 #problemContainer{
+  width: 90%;
   border: 10px solid black;
+  border-radius: 5%;
+  background-color:gray;
+  color:white;
+  opacity: 0.7;
+  
   
 }
 
 
 #solutionContainer{
+  width: 90%;
   border: 10px solid black;
-  
+  border-radius: 5%;
+  background-color:gray;
+  color:white;
+  opacity: 0.8;
 }
 
 #mainDiv{
   padding: 20px;
+}
+
+#mainPage{
+  background-image: url("Images/IMG-2397.JPG");
+  background-size:     cover;                      
+    background-repeat:   no-repeat;
+    background-position: center center;
+  
 }
