@@ -17,3 +17,12 @@ Current MVP version 0.1 A-🛤️ </br>
 ## Screenshots
 ![Mesuara & Elvis working](Images/IMG-2397.JPG)
 ![Mesuara & Elvis working](Images/IMG-2400.JPG)
+
+## Team
+
+> Or Contributors/People
+
+| **Heriberto Roman / Developer / Project Manager** | **Mesuara Kaleziq / Developer** | **Elvis Garcia / Developer** |
+| :---: |:---:| :---:|
+| [![Heriberto Roman](/Images/Heriberto.jpeg)](https://github.com/getromandev)    | [![Mesuara Kaleziq](/Images/mesuara.jpeg)](https://github.com/mesuara) | [![Elvis Garcia](/Images/Elvis.jpeg)](https://github.com/ElvisGarcia079)  |
+| <a href="https://github.com/getromandev" target="_blank">`github.com/getromandev`</a> | <a href="https://github.com/mesuara" target="_blank">`github.com/mesuara`</a> | <a href="https://github.com/ElvisGarcia079" target="_blank">`github.com/ElvisGarcia079`</a> |
