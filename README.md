@@ -3,7 +3,7 @@
 ![Blind](Images/IMG-2394.JPG)
 
 ## Demo
-https://getromandev.github.io/Blind_spot/index.html
+https://hroman-codes.github.io/Blind_spot/index.html
 
 ## Description
 >Blind spot is a low cost do it yourself iOT security system that utilizes a Raspberry Pi, Google, and Alexa to measure and report distance.
